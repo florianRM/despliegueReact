@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/florianRM/despliegueReact.github.io.git/static/css/main.e94dda60.css",
+    "main.js": "/florianRM/despliegueReact.github.io.git/static/js/main.a9ce0cde.js",
+    "index.html": "/florianRM/despliegueReact.github.io.git/index.html",
+    "main.e94dda60.css.map": "/florianRM/despliegueReact.github.io.git/static/css/main.e94dda60.css.map",
+    "main.a9ce0cde.js.map": "/florianRM/despliegueReact.github.io.git/static/js/main.a9ce0cde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94dda60.css",
+    "static/js/main.a9ce0cde.js"
+  ]
+}
